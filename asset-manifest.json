@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shoe3d-model/static/css/main.11fed21f.css",
+    "main.js": "/shoe3d-model/static/js/main.3f410e7b.js",
+    "static/js/787.20261de2.chunk.js": "/shoe3d-model/static/js/787.20261de2.chunk.js",
+    "index.html": "/shoe3d-model/index.html",
+    "main.11fed21f.css.map": "/shoe3d-model/static/css/main.11fed21f.css.map",
+    "main.3f410e7b.js.map": "/shoe3d-model/static/js/main.3f410e7b.js.map",
+    "787.20261de2.chunk.js.map": "/shoe3d-model/static/js/787.20261de2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11fed21f.css",
+    "static/js/main.3f410e7b.js"
+  ]
+}
