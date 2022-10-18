@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.product-canvas {
+  background: rgb(255, 255, 255);
+  box-shadow: 10px 15px 15px 6px #9d979d;
+  border-radius: 0px;
+  margin-bottom: 20px;
+}
+
+.card {
+  height: 100%;
+}
+
+.product-canvas {
+  width: 100vw;
+  height: 80vh;
+  background: white;
+  box-shadow: 10px 15px 15px 6px #acadad;
+  border-radius: 0px;
+  margin-bottom: 20px;
+}
+
+.colors div {
+  padding: 10px;
+  align-items: center;
+}
+
+.title {
+  font-family: "Nunito", sans-serif;
+  font-weight: normal;
+  text-align: center;
+  padding-top: 20px;
+}
+
+label {
+  font-family: "Nunito", sans-serif;
+  font-size: 20px;
+}
+
+.input__fields {
+  display: flex;
+  justify-content: center;
+}
